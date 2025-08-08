@@ -25,3 +25,5 @@ Cold Data (older than 3 months) → Move to Azure Blob Storage (Cool tier).
 2. Blob Cool tier is much cheaper for infrequently accessed data.
 3. No API changes — client apps work as-is.
 4. Fast cold reads — still within seconds
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3d0c6d65-0902-4923-baf0-efeb8e0c4820" />
