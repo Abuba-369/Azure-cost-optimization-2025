@@ -20,7 +20,8 @@ Cold Data (older than 3 months) → Move to Azure Blob Storage (Cool tier).
 3. Delete from Hot Container.
 
 **Benefits**
-1.Drastically reduce Cosmos DB storage size & costs.
-2.Blob Cool tier is much cheaper for infrequently accessed data.
-3.No API changes — client apps work as-is.
-4.Fast cold reads — still within seconds
+
+1. Drastically reduce Cosmos DB storage size & costs.
+2. Blob Cool tier is much cheaper for infrequently accessed data.
+3. No API changes — client apps work as-is.
+4. Fast cold reads — still within seconds
