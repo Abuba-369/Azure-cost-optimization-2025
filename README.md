@@ -26,4 +26,4 @@ Cold Data (older than 3 months) → Move to Azure Blob Storage (Cool tier).
 3. No API changes — client apps work as-is.
 4. Fast cold reads — still within seconds
 
-<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/3d0c6d65-0902-4923-baf0-efeb8e0c4820" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/3d0c6d65-0902-4923-baf0-efeb8e0c4820" />
